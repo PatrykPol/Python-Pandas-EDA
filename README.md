@@ -1,2 +1,2 @@
 # Python-Pandas-EDA
-Exploratory Data Analysis for Superstore Sample Dat
+Exploratory Data Analysis for Superstore Sample Data
